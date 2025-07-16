@@ -66,7 +66,7 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 3. Deploy both frontend and backend to production
 4. Document your deployment process in the README.md
 5. Include screenshots of your CI/CD pipeline in action
-6. Add URLs to your deployed applications
+6. Add URLs to your deployed applications 
 
 ## Resources
 
